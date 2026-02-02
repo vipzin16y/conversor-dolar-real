@@ -46,7 +46,7 @@ O projeto foi criado com foco em **prática de lógica de programação**, **man
 ## 💻 Como visualizar o projeto
 
 1. Clone este repositório:
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/vipzin16y/conversor-dolar-real.git)
 
 2. Acesse a pasta do projeto:
    cd nome-do-repositorio
